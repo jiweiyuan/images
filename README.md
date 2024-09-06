@@ -6,3 +6,5 @@
 
 
 ![alt text](image.png)
+
+20240906-vector-distance.png
