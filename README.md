@@ -10,6 +10,7 @@
 20240910-two-halves-of-saas.svg
 20240926-layer-of-software-og.png
 20240926-layer-of-software.svg
+20240926-layer-of-computer-architecture-and-computer-network.svg
 
 
 ![alt text](image.png)
