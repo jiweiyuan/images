@@ -8,3 +8,8 @@
 20240910-install-software-model.svg
 20240910-shared-vs-dedicated-infrastructure.svg
 20240910-two-halves-of-saas.svg
+20240926-layer-of-software-og.png
+20240926-layer-of-software.svg
+
+
+![alt text](image.png)
